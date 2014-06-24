@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a5d7a87-24cf-4330-ade8-9c24bdbe014f" name="Default" comment="" />
+    <ignored path="yoTestFile2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="yoTestFile2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="227" max-vertical-offset="630">
+              <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="songs.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/songs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.34985423" vertical-offset="0" max-vertical-offset="615">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo.b64" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo.b64">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo.hex" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo.hex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="483480">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app2..js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app2..js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="1080">
+              <caret line="65" column="30" selection-start-line="65" selection-start-column="3" selection-end-line="65" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo.js" />
+        <option value="$PROJECT_DIR$/app2..js" />
+        <option value="$PROJECT_DIR$/demo.hex" />
+        <option value="$PROJECT_DIR$/demo.txt" />
+        <option value="$PROJECT_DIR$/demo.b64" />
+        <option value="$PROJECT_DIR$/mysong.mp3" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/songs.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="266" />
+    <option name="y" value="67" />
+    <option name="width" value="1126" />
+    <option name="height" value="764" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yoTestFile2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yoTestFile2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yoTestFile2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app2..js" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager" selected="Node.js.songs.js">
+    <configuration default="false" name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/opt/node/bin/node" path-to-js-file="app2..js" working-dir="$PROJECT_DIR$">
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/opt/node/bin/node" path-to-js-file="$PROJECT_DIR$/demo.js" working-dir="$PROJECT_DIR$">
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="app.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/opt/node/bin/node" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="songs.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/opt/node/bin/node" path-to-js-file="$PROJECT_DIR$/songs.js" working-dir="$PROJECT_DIR$">
+      <RunnerSettings RunnerId="NodeJS.debug" />
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.debug" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/opt/node/bin/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/opt/node/bin/node" path-to-js-file="app2..js" working-dir="$PROJECT_DIR$">
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/opt/node/bin/node" path-to-js-file="app2..js" working-dir="$PROJECT_DIR$">
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Unnamed" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.demo.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.app.js (2)" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.songs.js" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.songs.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.app.js (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.demo.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a5d7a87-24cf-4330-ade8-9c24bdbe014f" name="Default" comment="" />
+      <created>1403520937643</created>
+      <updated>1403520937643</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="266" y="67" width="1126" height="764" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977098" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19728507" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27851853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42812982" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/songs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="600">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app2..js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="1080">
+          <caret line="65" column="30" selection-start-line="65" selection-start-column="3" selection-end-line="65" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <caret line="34" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="585">
+          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="343">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.hex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="343">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.b64">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="343">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="227" max-vertical-offset="630">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app2..js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="1080">
+          <caret line="65" column="30" selection-start-line="65" selection-start-column="3" selection-end-line="65" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/songs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34985423" vertical-offset="0" max-vertical-offset="615">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
